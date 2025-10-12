@@ -1,25 +1,40 @@
-# Sveiks! Esmu <Dāniels PLaunovs>
-QA/DevOps orientēts jaunais speciālists un RTU 3. kursa students. Mani interesē testēšanas automatizācija, CI/CD un nelieli Python servisi.
+# Sveiks! Esmu Dāniels Plaunovs
+RTU 3. kursa students un IT entuziasts ar interesi par programmēšanu. Šobrīd aktīvi izpētu dažādus virzienus, lai atrastu jomu, kurā attīstīties visvairāk.
 
-## 🧰 Prasmes (īsumā)
-- **Testēšana:** JMeter, pytest, API testēšana, Selenium (pamati)
-- **CI/CD & DevOps:** GitHub Actions, Jenkins, PM2, Docker, Linux/WSL2, Git
-- **Kodēšana:** Python (Flask/FastAPI), JavaScript (pamati)
-- **Datu bāzes:** PostgreSQL, CockroachDB (NewSQL ievads)
+---
+
+## 🧰 Prasmes
+- **Programmēšana:** Python, Java, C++, C#, HTML, CSS, JavaScript (pamati)  
+- **Testēšana:** JMeter, pytest, API testēšana, Selenium (pamati)  
+- **CI/CD & DevOps:** GitHub Actions, Jenkins, PM2, Docker, Linux/WSL2, Git  
+- **Datu bāzes:** SQL, PostgreSQL, CockroachDB (NewSQL ievads)  
+- **Citas prasmes:** Agile pamati, sistēmu analīze, modelēšana, algoritmi un datu struktūras  
+
+---
 
 ## 🌟 Izcelti projekti
-> Zemāk ir projekti, kurus es aktīvi veidoju/uzlaboju. (Repo tiks publicēti secīgi.)
-- **QA – OWASP Juice Shop ar JMeter** → JMeter scenāriji (CSV login, assertioni, groza manipulācijas, ForEach kontrolleris), kopsavilkumi un rezultātu atskaites. *(repo: `qa-jmeter-juice-shop`)*  
-- **Python Greetings Microservice** → neliels REST API + **GitHub Actions** CI/CD + **PM2** izvietošana. *(repo: `python-greetings`)*  
-- **CI/CD Piemēri** → GitHub Actions un Jenkins pipeline konfigurācijas (ar self-hosted runner pierakstiem). *(repo: `ci-cd-pipelines`)*  
-- **Face Recognition Benchmark (bakalaura darbs)** → salīdzinājums: `face_recognition`, `DeepFace`, `InsightFace`, metrikas un kopsavilkumi. *(repo: `face-recognition-benchmark`)*  
-- **CockroachDB NewSQL prakses** → īsi piemēri, vaicājumi un novērojumi salīdzinājumā ar relāciju DB. *(repo: `cockroachdb-labs`)*
+Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju. (Repo tiks publicēti secīgi.)
 
-## 🔎 Ko meklēju
-Prakses/entry-level iespējas **QA** vai **DevOps/CI-CD** virzienā, kur varu likt lietā automatizāciju un caurspīdīgus izpildes procesus.
+- **QA – OWASP Juice Shop ar JMeter** → JMeter scenāriji (CSV login, assertioni, groza manipulācijas, ForEach kontrolleris), kopsavilkumi un rezultātu atskaites.  
+  🔗 [github.com/dplaunovs/qa-jmeter-juice-shop](https://github.com/dplaunovs/qa-jmeter-juice-shop)
+
+- **Python Greetings Microservice** → Neliels REST API + GitHub Actions CI/CD + PM2 izvietošana.  
+  🔗 [github.com/dplaunovs/python-greetings](https://github.com/dplaunovs/python-greetings)
+
+- **CI/CD Piemēri** → GitHub Actions un Jenkins pipeline konfigurācijas (ar self-hosted runner pierakstiem).  
+  🔗 [github.com/dplaunovs/ci-cd-pipelines](https://github.com/dplaunovs/ci-cd-pipelines)
+
+- **Face Recognition Benchmark (bakalaura darbs)** → Salīdzinājums: `face_recognition`, `DeepFace`, `InsightFace`, metrikas un kopsavilkumi.  
+  🔗 [github.com/dplaunovs/face-recognition-benchmark](https://github.com/dplaunovs/face-recognition-benchmark)
+
+- **CockroachDB NewSQL prakses** → Īsi piemēri, vaicājumi un novērojumi salīdzinājumā ar relāciju DB.  
+  🔗 [github.com/dplaunovs/cockroachdb-labs](https://github.com/dplaunovs/cockroachdb-labs)
+
+- **Algorithm & OOP Demos** → Nelielas C++/Java/C# programmas, kas demonstrē algoritmus un objektorientētos principus.  
+  🔗 [github.com/dplaunovs/oop-algorithm-demos](https://github.com/dplaunovs/oop-algorithm-demos)
+
+---
 
 ## 📫 Kontakti
-- E-pasts: <dplaunovs.work@gmail.com>  
-- LinkedIn: <www.linkedin.com/in/dplaunovs>>  
-
-
+- 📧 E-pasts: [dplaunovs.work@gmail.com](mailto:dplaunovs.work@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/dplaunovs](https://www.linkedin.com/in/dplaunovs)
