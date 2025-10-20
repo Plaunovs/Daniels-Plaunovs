@@ -13,25 +13,18 @@ RTU 3. kursa students un IT entuziasts ar interesi par programmēšanu. Šobrīd
 ---
 
 ## 🌟 Izcelti projekti
-Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju. (Repo tiks publicēti secīgi.)
+Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju.
 
-- **QA – OWASP Juice Shop ar JMeter** → JMeter scenāriji (CSV login, assertioni, groza manipulācijas, ForEach kontrolleris), kopsavilkumi un rezultātu atskaites.  
-  🔗 [github.com/dplaunovs/qa-jmeter-juice-shop](https://github.com/dplaunovs/qa-jmeter-juice-shop)
+---
 
-- **Python Greetings Microservice** → Neliels REST API + GitHub Actions CI/CD + PM2 izvietošana.  
-  🔗 [github.com/dplaunovs/python-greetings](https://github.com/dplaunovs/python-greetings)
+- **🔧 Python Greetings Pipeline** → GitHub Actions CI/CD konveijers Python mikropakalpojumam ar PM2 un API testu izpildi.  
+  🔗 [github.com/dplaunovs/python-greetings-pipeline](https://github.com/dplaunovs/python-greetings-pipeline)
 
-- **CI/CD Piemēri** → GitHub Actions un Jenkins pipeline konfigurācijas (ar self-hosted runner pierakstiem).  
-  🔗 [github.com/dplaunovs/ci-cd-pipelines](https://github.com/dplaunovs/ci-cd-pipelines)
+- **🧪 API Automation Framework** → Automatizēts REST API testu ietvars ar Mocha, Chai un Axios, kas testē CRUD operācijas pret publisko GoREST API.  
+  🔗 [github.com/dplaunovs/api-automation-framework](https://github.com/dplaunovs/api-automation-framework)
 
-- **Face Recognition Benchmark (bakalaura darbs)** → Salīdzinājums: `face_recognition`, `DeepFace`, `InsightFace`, metrikas un kopsavilkumi.  
-  🔗 [github.com/dplaunovs/face-recognition-benchmark](https://github.com/dplaunovs/face-recognition-benchmark)
-
-- **CockroachDB NewSQL prakses** → Īsi piemēri, vaicājumi un novērojumi salīdzinājumā ar relāciju DB.  
-  🔗 [github.com/dplaunovs/cockroachdb-labs](https://github.com/dplaunovs/cockroachdb-labs)
-
-- **Algorithm & OOP Demos** → Nelielas C++/Java/C# programmas, kas demonstrē algoritmus un objektorientētos principus.  
-  🔗 [github.com/dplaunovs/oop-algorithm-demos](https://github.com/dplaunovs/oop-algorithm-demos)
+- **🎮 AI Game (C#)** → Universitātes projekts – Windows Forms spēle ar Minimax un Alpha-Beta algoritmiem; demonstrē mākslīgā intelekta loģiku un GUI izstrādi.  
+  🔗 [github.com/dplaunovs/ai-game-csharp](https://github.com/dplaunovs/ai-game-csharp)
 
 ---
 
