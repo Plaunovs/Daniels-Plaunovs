@@ -18,13 +18,13 @@ Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju.
 ---
 
 - **🔧 Python Greetings Pipeline** → GitHub Actions CI/CD konveijers Python mikropakalpojumam ar PM2 un API testu izpildi.  
-  🔗 [github.com/dplaunovs/python-greetings-pipeline](https://github.com/dplaunovs/python-greetings-pipeline)
+  🔗 [github.com/dplaunovs/python-greetings-pipeline](https://github.com/Plaunovs/python-greetings-pipeline.git)
 
 - **🧪 API Automation Framework** → Automatizēts REST API testu ietvars ar Mocha, Chai un Axios, kas testē CRUD operācijas pret publisko GoREST API.  
-  🔗 [github.com/dplaunovs/api-automation-framework](https://github.com/dplaunovs/api-automation-framework)
+  🔗 [github.com/dplaunovs/api-automation-framework](https://github.com/Plaunovs/api-automation-framework.git)
 
 - **🎮 AI Game (C#)** → Universitātes projekts – Windows Forms spēle ar Minimax un Alpha-Beta algoritmiem; demonstrē mākslīgā intelekta loģiku un GUI izstrādi.  
-  🔗 [github.com/dplaunovs/ai-game-csharp](https://github.com/dplaunovs/ai-game-csharp)
+  🔗 [github.com/dplaunovs/ai-game-csharp](https://github.com/Plaunovs/ai-game-csharp.git)
 
 ---
 
