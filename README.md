@@ -25,6 +25,12 @@ Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju.
 
 - **🎮 AI Game (C#)** → Universitātes projekts – Windows Forms spēle ar Minimax un Alpha-Beta algoritmiem; demonstrē mākslīgā intelekta loģiku un GUI izstrādi.  
   🔗 [github.com/dplaunovs/ai-game-csharp](https://github.com/Plaunovs/ai-game-csharp.git)
+  
+- **🧩 Python Greetings Pipeline (Jenkins)** → CI/CD piegādes konveijers Python mikropakalpojumam, izstrādāts ar Jenkins; demonstrē vairāku vides izvietošanas un API testēšanas automatizāciju.  
+  🔗 [github.com/Plaunovs/python-greetings-pipeline-jenkins](https://github.com/Plaunovs/python-greetings-pipeline-jenkins)
+  
+- **🧠 Face Recognition Benchmark (Bakalaura darbs)** → Analīze un salīdzinājums starp atvērtā koda sejas atpazīšanas sistēmām: `face_recognition`, `DeepFace` un `InsightFace`; iekļauj precizitātes, veiktspējas un resursu izmantošanas novērtējumu.  
+  🔗 [github.com/Plaunovs/face-recognition-benchmark](https://github.com/Plaunovs/face-recognition-benchmark)
 
 ---
 
