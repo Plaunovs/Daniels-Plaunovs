@@ -30,7 +30,7 @@ Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju.
   🔗 [github.com/Plaunovs/python-greetings-pipeline-jenkins](https://github.com/Plaunovs/python-greetings-pipeline-jenkins)
   
 - **🧠 Face Recognition Benchmark (Bakalaura darbs)** → Analīze un salīdzinājums starp atvērtā koda sejas atpazīšanas sistēmām: `face_recognition`, `DeepFace` un `InsightFace`; iekļauj precizitātes, veiktspējas un resursu izmantošanas novērtējumu.  
-  🔗 [github.com/Plaunovs/face-recognition-benchmark](https://github.com/Plaunovs/face-recognition-benchmark)
+  🔗 [github.com/Plaunovs/bakalaura-darbs](https://github.com/Plaunovs/bakalaura-darbs.git)
 
 ---
 
