@@ -1,7 +1,9 @@
 # Sveiks! Esmu Dāniels Plaunovs
 RTU 3. kursa students un IT entuziasts ar interesi par programmēšanu. Šobrīd aktīvi izpētu dažādus virzienus, lai atrastu jomu, kurā attīstīties visvairāk.
 
+
 ---
+
 
 ## 🧰 Prasmes
 - **Programmēšana:** Python, Java, C++, C#, HTML, CSS, JavaScript (pamati)  
@@ -10,12 +12,11 @@ RTU 3. kursa students un IT entuziasts ar interesi par programmēšanu. Šobrīd
 - **Datu bāzes:** SQL, PostgreSQL, CockroachDB (NewSQL ievads)  
 - **Citas prasmes:** Agile pamati, sistēmu analīze, modelēšana, algoritmi un datu struktūras  
 
+
 ---
+
 
 ## 🌟 Izcelti projekti
-Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju.
-
----
 
 - **🔧 Python Greetings Pipeline** → GitHub Actions CI/CD konveijers Python mikropakalpojumam ar PM2 un API testu izpildi.  
   🔗 [github.com/dplaunovs/python-greetings-pipeline](https://github.com/Plaunovs/python-greetings-pipeline.git)
@@ -32,7 +33,9 @@ Zemāk ir projekti, kurus es aktīvi veidoju un uzlaboju.
 - **🧠 Face Recognition Benchmark (Bakalaura darbs)** → Analīze un salīdzinājums starp atvērtā koda sejas atpazīšanas sistēmām: `face_recognition`, `DeepFace` un `InsightFace`; iekļauj precizitātes, veiktspējas un resursu izmantošanas novērtējumu.  
   🔗 [github.com/Plaunovs/bakalaura-darbs](https://github.com/Plaunovs/bakalaura-darbs.git)
 
+
 ---
+
 
 ## 📫 Kontakti
 - 📧 E-pasts: [dplaunovs.work@gmail.com](mailto:dplaunovs.work@gmail.com)  
