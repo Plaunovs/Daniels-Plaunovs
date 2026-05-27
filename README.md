@@ -31,9 +31,6 @@ RTU 3. kursa students un IT entuziasts ar interesi par programmēšanu. Šobrīd
 - **🧩 Python Greetings Pipeline (Jenkins)** → CI/CD piegādes konveijers Python mikropakalpojumam, izstrādāts ar Jenkins; demonstrē vairāku vides izvietošanas un API testēšanas automatizāciju.  
   🔗 [github.com/Plaunovs/python-greetings-pipeline-jenkins](https://github.com/Plaunovs/python-greetings-pipeline-jenkins)
   
-- **🧠 Face Recognition Benchmark (Bakalaura darbs)** → Analīze un salīdzinājums starp atvērtā koda sejas atpazīšanas sistēmām: `face_recognition`, `DeepFace` un `InsightFace`; iekļauj precizitātes, veiktspējas un resursu izmantošanas novērtējumu.  
-  🔗 [github.com/Plaunovs/bakalaura-darbs](https://github.com/Plaunovs/bakalaura-darbs.git)
-  
 - **💪 FitTrack – Fitness & Workout Tracker** → Pilna stack web aplikācija lietotāju treniņu plānošanai, sasniegumu reģistrēšanai un progresu vizualizēšanai; ietver diagrammas, kaloriju aprēķinus un paziņojumus.  
   🔗 [github.com/Plaunovs/Fittrack](https://github.com/Plaunovs/Fittrack)
 
