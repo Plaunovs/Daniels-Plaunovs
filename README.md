@@ -1,43 +1,42 @@
 # Sveiks! Esmu Dāniels Plaunovs
-RTU 3. kursa students un IT entuziasts ar interesi par programmēšanu. Šobrīd aktīvi izpētu dažādus virzienus, lai atrastu jomu, kurā attīstīties visvairāk.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+Junior programmētājs ar datorsistēmu bakalaura grādu (RTU, 2026). Strādāju ar Python, testēšanas rīkiem, CI/CD un AI API. Praksē SIA "Sharpify Global" komandā izstrādāju AI vizuāļu ģenerēšanas sistēmu ar Claude Code. Esmu atvērts dažādiem IT virzieniem, sākot no izstrādes un automatizācijas līdz testēšanai un darbam ar datiem.
 
----
-
-
-## 🧰 Prasmes
-- **Programmēšana:** Python, Java, C++, C#, HTML, CSS, JavaScript (pamati)  
-- **Testēšana:** JMeter, pytest, API testēšana, Selenium (pamati)  
-- **CI/CD & DevOps:** GitHub Actions, Jenkins, PM2, Docker, Linux/WSL2, Git  
-- **Datu bāzes:** SQL, PostgreSQL, CockroachDB (NewSQL ievads)  
-- **Citas prasmes:** Agile pamati, sistēmu analīze, modelēšana, algoritmi un datu struktūras  
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
+## Prasmes
 
-## 🌟 Izcelti projekti
-
-- **🔧 Python Greetings Pipeline** → GitHub Actions CI/CD konveijers Python mikropakalpojumam ar PM2 un API testu izpildi.  
-  🔗 [github.com/dplaunovs/python-greetings-pipeline](https://github.com/Plaunovs/python-greetings-pipeline.git)
-
-- **🧪 API Automation Framework** → Automatizēts REST API testu ietvars ar Mocha, Chai un Axios, kas testē CRUD operācijas pret publisko GoREST API.  
-  🔗 [github.com/dplaunovs/api-automation-framework](https://github.com/Plaunovs/api-automation-framework.git)
-
-- **🎮 AI Game (C#)** → Universitātes projekts – Windows Forms spēle ar Minimax un Alpha-Beta algoritmiem; demonstrē mākslīgā intelekta loģiku un GUI izstrādi.  
-  🔗 [github.com/dplaunovs/ai-game-csharp](https://github.com/Plaunovs/ai-game-csharp.git)
-  
-- **🧩 Python Greetings Pipeline (Jenkins)** → CI/CD piegādes konveijers Python mikropakalpojumam, izstrādāts ar Jenkins; demonstrē vairāku vides izvietošanas un API testēšanas automatizāciju.  
-  🔗 [github.com/Plaunovs/python-greetings-pipeline-jenkins](https://github.com/Plaunovs/python-greetings-pipeline-jenkins)
-  
-- **💪 FitTrack – Fitness & Workout Tracker** → Pilna stack web aplikācija lietotāju treniņu plānošanai, sasniegumu reģistrēšanai un progresu vizualizēšanai; ietver diagrammas, kaloriju aprēķinus un paziņojumus.  
-  🔗 [github.com/Plaunovs/Fittrack](https://github.com/Plaunovs/Fittrack)
-
+- **Programmēšana:** Python, Java, C#, C++, SQL, HTML, CSS, JavaScript
+- **Testēšana:** API testēšana (Postman, Mocha/Chai), slodzes testēšana (JMeter), pytest, Selenium (pamati)
+- **CI/CD un DevOps:** GitHub Actions, Jenkins, PM2, Docker, Git
+- **Datu bāzes:** MySQL, PostgreSQL, SQLite, CockroachDB (ievads)
+- **AI:** Claude (Chat, Code), OpenAI API, Google Gemini API
+- **Citas prasmes:** Agile pamati, sistēmu analīze un modelēšana, algoritmi un datu struktūras
 
 ---
 
+## Izcelti projekti
 
-## 📫 Kontakti
-- 📧 E-pasts: [dplaunovs.work@gmail.com](mailto:dplaunovs.work@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/dplaunovs](https://www.linkedin.com/in/dplaunovs)
+- **API Automation Framework**: automatizēts REST API testu ietvars ar Mocha, Chai un Axios, kas testē CRUD operācijas pret publisko GoREST API.
+  [github.com/Plaunovs/api-automation-framework](https://github.com/Plaunovs/api-automation-framework)
+
+- **Python Greetings Pipeline (GitHub Actions)**: CI/CD konveijers Python mikropakalpojumam ar PM2 un automatizētu API testu izpildi.
+  [github.com/Plaunovs/python-greetings-pipeline](https://github.com/Plaunovs/python-greetings-pipeline)
+
+- **Python Greetings Pipeline (Jenkins)**: tas pats mikropakalpojums ar Jenkins konveijeru, izvietošanu vairākās vidēs un API testēšanu.
+  [github.com/Plaunovs/python-greetings-pipeline-jenkins](https://github.com/Plaunovs/python-greetings-pipeline-jenkins)
+
+- **FitTrack**: full-stack tīmekļa lietotne treniņu plānošanai un progresa sekošanai, ar diagrammām, kaloriju aprēķiniem un paziņojumiem.
+  [github.com/Plaunovs/Fittrack](https://github.com/Plaunovs/Fittrack)
+
+- **AI Game (C#)**: universitātes projekts, Windows Forms spēle ar Minimax un Alpha-Beta algoritmiem.
+  [github.com/Plaunovs/ai-game-csharp](https://github.com/Plaunovs/ai-game-csharp)
+
+---
+
+## Kontakti
+
+- E-pasts: [dplaunovs.work@gmail.com](mailto:dplaunovs.work@gmail.com)
+- LinkedIn: [linkedin.com/in/dplaunovs](https://www.linkedin.com/in/dplaunovs)
